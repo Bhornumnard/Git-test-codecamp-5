@@ -36,8 +36,7 @@ ___
 [this is link to google website](https://www.google.com/)
 
 
-            snaotuhenotuhaonsu
-        oaeuthontihantihtnpih
+            this line test for git merge --no--ff
 
 | header | header |
 |:----:|:-------|
@@ -46,3 +45,5 @@ ___
 |content | content|
 
 <!-- this are commented -->
+
+
