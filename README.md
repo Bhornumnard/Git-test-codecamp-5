@@ -45,4 +45,4 @@ ___
 |***content I want to show text align right*** | [content this is link](https://www.google.com/)|  
 |content | content|
 
-<!-- this is comment -->
+<!-- this are commented -->
