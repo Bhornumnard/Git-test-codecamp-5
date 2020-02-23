@@ -3,3 +3,5 @@ this is text for test git flow
 add commit this for git branch feature-3
 
 add text to add commit 2
+
+add text add line 7
