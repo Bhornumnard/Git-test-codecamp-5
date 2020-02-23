@@ -1,1 +1,11 @@
 this is text for test git flow
+
+test again rebase again
+
+I'm a student of codecamp5
+add text for commit in develop
+I want to create something wrong in this line
+
+I try to make a conflict
+
+this is code in line 7

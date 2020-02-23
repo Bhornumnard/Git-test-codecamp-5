@@ -5,11 +5,8 @@
 ##### title h5
 ###### title h6
 
-oteuheotnh  
-otnuheentua  
-oeueooeuau  
-oeuoauouoau  
-oetuoesuaeu
+this is writing in branch develop
+this text in branch feature-1
 
 *this content is ilitic*  
 _this content is ilinic_  
@@ -39,11 +36,14 @@ ___
 [this is link to google website](https://www.google.com/)
 
 
-            snaotuhenotuhaonsu
-        oaeuthontihantihtnpih
+            this line test for git merge --no--ff
 
 | header | header |
 |:----:|:-------|
 | **content this is I want to test text align center** | *content* |
 |***content I want to show text align right*** | [content this is link](https://www.google.com/)|  
 |content | content|
+
+<!-- this are commented -->
+
+
