@@ -7,3 +7,4 @@ add text to add commit 2
 add text add line 7
 add text for commit in develop
 
+add second line of text for commit
