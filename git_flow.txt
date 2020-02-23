@@ -3,3 +3,5 @@ this is text for test git flow
 I want to create something wrong in this line
 
 I try to make a conflict
+
+this is code in line 7
