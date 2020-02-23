@@ -1,5 +1,5 @@
 this is text for test git flow
 
-add text for commit in develop
+I want to create something wrong in this line
 
-add second line of text for commit
+I try to make a conflict
