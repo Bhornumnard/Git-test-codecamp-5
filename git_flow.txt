@@ -7,3 +7,5 @@ add text for commit in develop
 I want to create something wrong in this line
 
 I try to make a conflict
+
+this is code in line 7
